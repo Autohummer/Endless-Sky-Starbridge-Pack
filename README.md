@@ -8,6 +8,8 @@ Pirate Starbridge
 Pirate Mod. Starbridge (not actually in the original EVN)
 Rebel Starbridge
 Railbridge (Mod Stabridge with wingtip blasters replaced by railguns) (Civilian/Pirate/Rebel/Forbidden variants)
+
+Also, two types of infinite ammunition railguns have been added for the authentic EVN experience. The ships and weapons can be bought from various advanced shipyards and outfitters. As a fallback, all Starbridge variants and outfits featured in this mod are available at any Syndicate Advanced shipyard.
  
 # Acknowledgments
 
